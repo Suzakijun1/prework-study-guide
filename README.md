@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# <Prework Study Guide Webpage>
 
 ## Description
 
@@ -9,8 +9,6 @@ This project was built to help expose myself to introductory levels of web devel
 N/A
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
 
 Within the study guide, users will be able to review the notes within the four different sections. The four different sections are HTML, CSS, git, and JavaScript. By using the DevTools console, users will be able to see the JavaScript running.
 
